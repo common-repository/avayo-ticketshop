@@ -1,0 +1,35 @@
+.postbox {
+
+}
+
+	.postbox__inner {
+		padding: 0px 15px;
+	}
+
+.avayo-shortcode {
+	padding: 10px 15px;
+	margin-bottom: 10px;
+	display: inline-block;
+}
+
+.logo {
+	margin: 15px 0;
+}
+
+#shortcode {
+	padding: 3px 5px 2px;
+	margin: 0 1px;
+	background: #eaeaea;
+	background: rgba(0, 0, 0, .07);
+	font-size: 13px;
+	padding: 10px 15px;
+	margin-bottom: 10px;
+	display: inline-block;
+	font-family: Consolas, Monaco, monospace;
+	unicode-bidi: embed;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	box-shadow: none;
+	border: 0;
+}
